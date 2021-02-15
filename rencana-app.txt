@@ -1,8 +1,13 @@
 MERN
   - banking
+  - social media
+  - Web sederhana
 
 Electron
   - validation STT
   
 Kotlin
   - Tasbih sederhana
+
+python
+  - Web Django
