@@ -1,8 +1,9 @@
 MERN
   - banking
+  - social media
+  - Web booking kost
 
 Electron
   - validation STT
   
 Kotlin
-  - Tasbih sederhana
