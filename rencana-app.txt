@@ -3,3 +3,6 @@ MERN
 
 Electron
   - validation STT
+  
+Kotlin
+  - Tasbih sederhana
