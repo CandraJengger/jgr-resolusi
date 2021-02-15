@@ -1,8 +1,8 @@
 MERN
   - banking
   - social media
-  - Web sederhana
-
+  - Web booking kost
+  
 Electron
   - validation STT
   
