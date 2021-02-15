@@ -1,6 +1,7 @@
 MERN
   - banking
   - social media
+  - Web sederhana
 
 Electron
   - validation STT
