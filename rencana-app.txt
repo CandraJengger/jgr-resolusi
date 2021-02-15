@@ -1,0 +1,8 @@
+MERN
+  - banking
+
+Electron
+  - validation STT
+  
+Kotlin
+  - Tasbih sederhana
