@@ -1,0 +1,5 @@
+MERN
+  - banking
+
+Electron
+  - validation STT
