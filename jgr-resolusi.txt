@@ -1,0 +1,19 @@
+- Belajat maksimal untuk menjadi Fullstack Javascript developer
+  - Belajar Typescript
+- Dapat menguasai
+  - NodeJs
+  - ReactJs
+  - Svelte
+  - Mongo
+  - Express
+  - Electron [desktop]
+  - React Native [mobile]
+- Juga ingin bisa
+  - python
+    - Django
+  - Flutter
+  - PHP
+    - CI 4
+    - Laravel
+- Optimalkan
+  - Kotlin
